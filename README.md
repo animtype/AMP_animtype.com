@@ -3,7 +3,7 @@ AMP animtype.com is a lightweight PHP based web page made of $f3 framework and A
 
 There is no "normal" desktop version, but instead, an AMP page works the same on all sorts of screens from wide screens down to mobile-portrait screens.
 
-# AMP vs Desktop cs Mobiel pages
+# AMP vs Desktop vs Mobile pages
 1. Desktop page and mobile friendly CSS media queries https://animtype.com
 2. AMP validated page: https://animtype.com/amp
 3. AMP Story web page with animations https://animtype.com/story
