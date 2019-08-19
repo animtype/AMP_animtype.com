@@ -212,13 +212,13 @@
 	},
 	"expanded_folders":
 	[
-		"/C/xampp/htdocs/animtype",
-		"/C/xampp/htdocs/animtype/app",
-		"/C/xampp/htdocs/animtype/app/classes",
-		"/C/xampp/htdocs/animtype/s"
+		"/C/xampp/htdocs/github/AMP_animtype.com",
+		"/C/xampp/htdocs/github/AMP_animtype.com/app"
 	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/github/AMP_animtype.com/app/amp-layout.php",
+		"/C/xampp/htdocs/github/AMP_animtype.com/app/amp-story.php",
 		"/C/xampp/htdocs/animtype/test.html",
 		"/C/xampp/htdocs/animtype/.htaccess",
 		"/C/xampp/htdocs/animtype/app/classes/WebPage.php",
@@ -313,7 +313,7 @@
 	],
 	"find":
 	{
-		"height": 44.0
+		"height": 29.0
 	},
 	"find_in_files":
 	{
@@ -485,7 +485,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 44.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -522,7 +522,7 @@
 	"project": "animtype.sublime-project",
 	"replace":
 	{
-		"height": 60.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
